@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
-    <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ziUwVxdD2WOEXHPin-Py-234" value="科研随访系统" style="whiteSpace=wrap;rounded=1;shadow=1;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=30;" parent="1" vertex="1">
+        <mxCell id="ziUwVxdD2WOEXHPin-Py-234" value="临床随访系统" style="whiteSpace=wrap;rounded=1;shadow=1;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="980" y="40" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ziUwVxdD2WOEXHPin-Py-235" value="项目管理" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=28;" parent="1" vertex="1">
@@ -94,7 +94,7 @@
             <mxPoint x="1771" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ziUwVxdD2WOEXHPin-Py-260" value="自&#xa;定&#xa;义&#xa;表&#xa;单" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=26;" parent="1" vertex="1">
+        <mxCell id="ziUwVxdD2WOEXHPin-Py-260" value="数&#xa;据&#xa;自&#xa;动&#xa;采&#xa;集" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="1771" y="300" width="70" height="351" as="geometry" />
         </mxCell>
         <mxCell id="ziUwVxdD2WOEXHPin-Py-261" value="随&#xa;访&#xa;患&#xa;者&#xa;管&#xa;理" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=26;" parent="1" vertex="1">
@@ -124,7 +124,7 @@
             <mxPoint x="970" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ziUwVxdD2WOEXHPin-Py-267" value="类&#xa;型&#xa;管&#xa;理" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=26;" parent="1" vertex="1">
+        <mxCell id="ziUwVxdD2WOEXHPin-Py-267" value="自&#xa;定&#xa;义&#xa;表&#xa;单" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="1681" y="300" width="70" height="351" as="geometry" />
         </mxCell>
         <mxCell id="ziUwVxdD2WOEXHPin-Py-268" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="ziUwVxdD2WOEXHPin-Py-267" edge="1">
