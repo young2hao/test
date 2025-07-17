@@ -1,9 +1,80 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="28.0.5">
   <diagram name="第 1 页" id="fccD7KL5nCpsrJy6Ree0">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;发布活动签到流程&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="640" height="677.5" as="geometry">
+            <mxRectangle x="320" y="40" width="220" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-2" value="行业党委管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8hy-nR36qYrhhuPBIbk3-1">
+          <mxGeometry x="20" y="22.5" width="300" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-3" value="党员、群众用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8hy-nR36qYrhhuPBIbk3-1">
+          <mxGeometry x="320" y="22.5" width="300" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8hy-nR36qYrhhuPBIbk3-1">
+          <mxGeometry x="20" y="80" width="300" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8hy-nR36qYrhhuPBIbk3-1">
+          <mxGeometry x="320" y="80" width="300" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-6" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="8hy-nR36qYrhhuPBIbk3-1" source="8hy-nR36qYrhhuPBIbk3-7" target="8hy-nR36qYrhhuPBIbk3-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-7" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="8hy-nR36qYrhhuPBIbk3-1">
+          <mxGeometry x="120" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-9" value="选择活动类型，编辑活动内容，设置开始时间等信息发布活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8hy-nR36qYrhhuPBIbk3-1">
+          <mxGeometry x="110" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="8hy-nR36qYrhhuPBIbk3-1" source="8hy-nR36qYrhhuPBIbk3-9" target="8hy-nR36qYrhhuPBIbk3-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="338.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-21" value="签到成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="8hy-nR36qYrhhuPBIbk3-1">
+          <mxGeometry x="432.5" y="410" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-22" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8hy-nR36qYrhhuPBIbk3-1">
+          <mxGeometry x="430" y="590" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="8hy-nR36qYrhhuPBIbk3-1" source="8hy-nR36qYrhhuPBIbk3-21" target="8hy-nR36qYrhhuPBIbk3-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-24" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8hy-nR36qYrhhuPBIbk3-23">
+          <mxGeometry x="-0.0022" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="8hy-nR36qYrhhuPBIbk3-1" source="8hy-nR36qYrhhuPBIbk3-26" target="8hy-nR36qYrhhuPBIbk3-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="8hy-nR36qYrhhuPBIbk3-1" source="8hy-nR36qYrhhuPBIbk3-26" target="8hy-nR36qYrhhuPBIbk3-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-26" value="给予用户积分奖励" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8hy-nR36qYrhhuPBIbk3-1">
+          <mxGeometry x="415" y="500" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8hy-nR36qYrhhuPBIbk3-1" source="8hy-nR36qYrhhuPBIbk3-28" target="8hy-nR36qYrhhuPBIbk3-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-28" value="用户在移动端报名参与活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8hy-nR36qYrhhuPBIbk3-1">
+          <mxGeometry x="410" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="8hy-nR36qYrhhuPBIbk3-1" source="8hy-nR36qYrhhuPBIbk3-30" target="8hy-nR36qYrhhuPBIbk3-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-30" value="活动开始后用户签到，领取积分" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="8hy-nR36qYrhhuPBIbk3-1">
+          <mxGeometry x="410" y="308.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy-nR36qYrhhuPBIbk3-34" value="管理员可查看报名人数、实际签到人数信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8hy-nR36qYrhhuPBIbk3-1">
+          <mxGeometry x="110" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
